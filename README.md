@@ -2,9 +2,11 @@
 
 Hi, I am Weijia Cai!
 
-I am currently a Master student majoring in Civil Engineering in Carnegie Mellon University. I am a member of Spatiotemporal Workflows and Resilient Management Laboratory (SWARM Lab) under the supervision of Dr. Pingbo Tang. I completed my Bachelor in Geological Engineering in Jilin University, China.
+I am currently a Master student majoring in Civil Engineering in Carnegie Mellon University. I am a member of Spatiotemporal Workflows and Resilient Management Laboratory (SWARM Lab) under the supervision of Dr. Pingbo Tang, who is an associate professor in CMU. I completed my Bachelor in Geological Engineering in Jilin University, China.
 
-My research interests is Computer vision.
+My research interests is the automation of construction processing, computer vision and machine learning. I believe the rich multi-modal information generated from all phases of construction will enable researchers to explore a better way to automate workflow in civil engineering.
+
+Please feel free to contact me: weijiaca@andrew.cmu.edu
 
 ### Markdown
 
