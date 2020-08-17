@@ -8,6 +8,20 @@ My research interests is the automation of construction processing, computer vis
 
 Please feel free to contact me: weijiaca@andrew.cmu.edu
 
+### Research
+
+#### Valuable Data Preservation of Drone-generated Data for bridge inspection			    Jun 2020 – Aug 2020
+
+Researcher in _Summer research program_ in CEE Dept. in CMU    
+
+•	Designed an integrated indicator that helps recognize the criticality of bridge components
+
+•	Built a Finite Element Model in a bridge structural model in Autodesk Robot Structural Analysis
+
+•	Built an integrated system in Python for data preprocessing, simulation function and data visualization  
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
