@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/YESAndy/Homepage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi, I am Weijia Cai!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently a Master student majoring in Civil Engineering in Carnegie Mellon University. I am a member of Spatiotemporal Workflows and Resilient Management Laboratory (SWARM Lab) under the supervision of Dr. Pingbo Tang. I completed my Bachelor in Geological Engineering in Jilin University, China.
+
+My research interests is Computer vision.
 
 ### Markdown
 
