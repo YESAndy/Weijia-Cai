@@ -6,7 +6,7 @@ I am currently a Master student majoring in Civil Engineering in Carnegie Mellon
 
 My research interests is the automation of construction processing, computer vision and machine learning. I believe the rich multi-modal information generated from all phases of construction will enable researchers to explore a better way to automate workflow in civil engineering.
 
-Please feel free to contact me: weijiaca@andrew.cmu.edu
+Please feel free to contact me: https://www.linkedin.com/in/weijia-cai-a49998181/
 
 ### Research
 
